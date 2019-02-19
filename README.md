@@ -1,7 +1,11 @@
 # Data-Analytics-Tools-and-Techniques
 Project repository for spring 2019 Data Analytics Tools and Techniques class
 
-Datasets being used:
+Datasets being Explored:
+  Alcohol Epidemiologic Data
+    Link: https://pubs.niaaa.nih.gov/publications/2017DataDirectory/2017DataDirectory.pdf
+    Description:  The Alcohol Epidemiologic Data Directory [PDF] is compiled by the Alcohol Epidemiologic Data System (AEDS). The                           directory is a current listing of surveys and other relevant data suitable for epidemiologic research on alcohol. Most                     data sets described in this document are national in scope. In some cases, however, select specialized data sets may be                   included. Information on the availability of and access to the data sets is provided.
+
   FiveThirtyEight Alcohol Consumption Dataset
     Link: https://www.kaggle.com/fivethirtyeight/fivethirtyeight-alcohol-consumption-dataset/home
     Description: Units: Average serving sizes per person Source: World Health Organisation, Global Information System on Alcohol and                        Health (GISAH), 2010
