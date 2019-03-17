@@ -17,5 +17,15 @@
   Suicide Rates by Country  
     Link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016  
     Description: country, year, sex, age group, count of suicides, population, suicide rate, country-year composite key, HDI for year, gdp_for_year, gdp_per_capita, generation (based on age grouping average).  
+  
+ Average daily intake in grams of alcohol by country
+    Description: Outlines the average daily consumption of alcohol, in grams for drinkers
+    Link: http://apps.who.int/gho/data/node.main.A1037?lang=en  
+    
+ Age limits - Alcohol service/sales by country  
+    Description: Legal age of drinkers in country
+    Link: http://apps.who.int/gho/data/node.main.A1144?lang=en  
+  
+
 ### Project Description:
 
